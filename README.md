@@ -1,5 +1,5 @@
 _Необходимо наличие ChromeWebDriver соответствующий версии установленного браузера_
-### Подробнее по ссылке ###
+### Инструкция по установке WebDriver ###
 >https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
 ### Установка зависимостей ###
